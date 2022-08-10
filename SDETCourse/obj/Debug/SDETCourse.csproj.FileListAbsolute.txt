@@ -1,0 +1,15 @@
+C:\Users\oscar.morales\source\repos\SDETCourse\SDETCourse\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\oscar.morales\source\repos\SDETCourse\SDETCourse\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\oscar.morales\source\repos\SDETCourse\SDETCourse\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\oscar.morales\source\repos\SDETCourse\SDETCourse\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\oscar.morales\source\repos\SDETCourse\SDETCourse\bin\Debug\SDETCourse.dll
+C:\Users\oscar.morales\source\repos\SDETCourse\SDETCourse\bin\Debug\SDETCourse.pdb
+C:\Users\oscar.morales\source\repos\SDETCourse\SDETCourse\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\oscar.morales\source\repos\SDETCourse\SDETCourse\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\oscar.morales\source\repos\SDETCourse\SDETCourse\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\oscar.morales\source\repos\SDETCourse\SDETCourse\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\oscar.morales\source\repos\SDETCourse\SDETCourse\obj\Debug\SDETCourse.csproj.AssemblyReference.cache
+C:\Users\oscar.morales\source\repos\SDETCourse\SDETCourse\obj\Debug\SDETCourse.csproj.CoreCompileInputs.cache
+C:\Users\oscar.morales\source\repos\SDETCourse\SDETCourse\obj\Debug\SDETCourse.csproj.CopyComplete
+C:\Users\oscar.morales\source\repos\SDETCourse\SDETCourse\obj\Debug\SDETCourse.dll
+C:\Users\oscar.morales\source\repos\SDETCourse\SDETCourse\obj\Debug\SDETCourse.pdb
